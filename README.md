@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo **apenas formatado**, com ajustes na indentação, pontuação e pequenos erros corrigidos para padronização e legibilidade:
-
----
-
 ## 📘 **Aplicação Angular: Exemplos de Data Binding**
 
 ### 🔧 Tecnologias:
