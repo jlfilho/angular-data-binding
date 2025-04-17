@@ -1,6 +1,8 @@
 <!-- Interpolação -->
 <h1>{{ title }}</h1>
 
+<div class="container">
+  <img src="{{ imageUrl }}" alt="Logomarca do Angular" width="100" height="100">
 <!-- Property Binging -->
 <img [src]="imageUrl" alt="Logomarca do Angular" width="100" height="100">
 
@@ -13,5 +15,5 @@
 <input [(ngModel)]="inputText" type="text" id="fname" name="fname"><br><br>
 
 <p>Você digitou: {{inputText}}</p>
-
+</div>
 <router-outlet />
